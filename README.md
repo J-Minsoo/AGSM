@@ -1,6 +1,6 @@
 # Angular Gradient Sign Method (AGSM)
 
-PyTorch code for Angular Gradient Sign Method experiments on hyperbolic image classification and vision-language retrieval. This repository currently combines two subprojects:
+This repository is PyTorch code for the paper [*Angular Gradient Sign Method: Uncovering Vulnerabilities in Hyperbolic Networks*](https://arxiv.org/abs/2511.12985) on hyperbolic image classification and vision-language retrieval. This repository currently combines two subprojects:
 
 - `poincare-resnet`: hyperbolic image classification and adversarial evaluation
 - `hycoclip`: hyperbolic vision-language retrieval evaluation
